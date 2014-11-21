@@ -1,3 +1,5 @@
+## Top 50 most required packages
+
 | pos | package                           | deps | maintainers                          |
 |-----|-----------------------------------|------|--------------------------------------|
 | 1   | phpunit/phpunit                   | 9181 | sebastian                            |
@@ -50,3 +52,21 @@
 | 48  | zendframework/zend-servicemanager | 330  | zendframework                        |
 | 49  | sensio/generator-bundle           | 329  | fabpot                               |
 | 50  | illuminate/database               | 329  | taylorotwell                         |
+
+## Top 10 Authors by total references
+
+| pos  | author        | total packages | total references |
+|----|---------------|----|-------|
+| 1  | fabpot        | 22 | 16412 |
+| 2  | sebastian     | 1  | 9181  |
+| 3  | tailorotwell  | 3  | 3608  |
+| 4  | beberlei      | 4  | 3170  |
+| 5  | seldaek       | 2  | 1975  |
+| 6  | padraicb      | 1  | 1660  |
+| 7  | zendframework | 2  | 1453  |
+| 8  | satooshi      | 1  | 1371  |
+| 9  | mtdowling     | 2  | 1329  |
+| 10 | gsherwood     | 1  | 1264  |
+
+### About this data
+This lists are based on data generated from Packagist on November 19, 2014, using the app available at [https://github.com/mikeal/php-analytics](https://github.com/mikeal/php-analytics).
