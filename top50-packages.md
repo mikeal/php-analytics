@@ -69,4 +69,4 @@
 | 10 | gsherwood     | 1  | 1264  |
 
 ### About this data
-This lists are based on data generated from Packagist on November 19, 2014, using the app available at [https://github.com/mikeal/php-analytics](https://github.com/mikeal/php-analytics).
+These lists are based on data generated from Packagist on November 19, 2014, using the app available at [https://github.com/mikeal/php-analytics](https://github.com/mikeal/php-analytics).
