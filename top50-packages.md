@@ -59,7 +59,7 @@
 |----|---------------|----|-------|
 | 1  | fabpot        | 22 | 16412 |
 | 2  | sebastian     | 1  | 9181  |
-| 3  | tailorotwell  | 3  | 3608  |
+| 3  | taylorotwell  | 3  | 3608  |
 | 4  | beberlei      | 4  | 3170  |
 | 5  | seldaek       | 2  | 1975  |
 | 6  | padraicb      | 1  | 1660  |
